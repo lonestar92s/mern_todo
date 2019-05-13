@@ -13,8 +13,8 @@ export default class App extends Component {
   render(){
   return (
     <Router>
-    <div class="container">
-    <h2>MERN-Stack Todo App</h2>
+    <div className="container">
+    
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
             
             <Link to="/" className="navbar-brand">MERN-Stack Todo App</Link>
